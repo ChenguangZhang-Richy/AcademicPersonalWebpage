@@ -3,15 +3,15 @@
 title: Chenguang ZHANG, Richy(张晨光)
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: San Gwong Cheung
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Chenguang 
+last_name: Zhang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ☕️🎓
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,36 +20,40 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Ph.D. candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: The Hip Laboratory @Nanyang Technological University
+    url: https://kedarh.wixsite.com/nanotransport/group-members
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:zcgntu65@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/gleeChenguang
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/chenguang21
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: www.linkedin.com/in/richy-chenguangzhang
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=trO7ddsAAAAJ&hl=en&authuser=1
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-4658-5633
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  -  Nanotechnology
+  - Solid-state synthesis
+  - Thermoelectrics
+  - Condensed Matter Physics
+  - Materials Science
+  - Machine Learning
+
 
 education:
   - area: PhD Artificial Intelligence
