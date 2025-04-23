@@ -74,9 +74,9 @@ education:
       GPA: 3.94/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Academic Excellence Award
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
   
   - area: B.Eng. Materials Science and Engineering
     institution: Nanjing University of Science and Technology, PRC
