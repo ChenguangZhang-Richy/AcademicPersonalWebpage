@@ -65,7 +65,6 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-    
   - area: M.Eng. Materials Science and NanoEngineering
     institution: Rice University, Houston, TX
     date_start: 2020-08
@@ -75,8 +74,8 @@ education:
 
       Courses included:
       - Academic Excellence Award
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   
   - area: B.Eng. Materials Science and Engineering
     institution: Nanjing University of Science and Technology, PRC
