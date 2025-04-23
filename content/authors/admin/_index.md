@@ -70,7 +70,7 @@ education:
     institution: Rice University, Houston, TX
     date_start: 2020-08
     date_end: 2021-12
-    summary: |Academic Excellence Award
+    summary: Academic Excellence Award
       GPA: 3.94/4.0
 
       Courses included:
