@@ -68,8 +68,8 @@ education:
     
   - area: M.Eng. Materials Science and NanoEngineering
     institution: Rice University, Houston, TX
-    date_start: 2020-08
-    date_end: 2021-12
+    date_start: 2020-08-16
+    date_end: 2021-12-01
     summary: |Academic Excellence Award
       GPA: 3.94/4.0
 
