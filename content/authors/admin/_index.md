@@ -47,7 +47,7 @@ profiles:
     url: https://orcid.org/0000-0003-4658-5633
 
 interests:
-  -  Nanotechnology
+  - Nanotechnology
   - Solid-state synthesis
   - Thermoelectrics
   - Condensed Matter Physics
@@ -56,32 +56,34 @@ interests:
 
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D. Materials Science and Engineering
+    institution: Nanyang Technological University, SG
+    date_start: 2022-01-10
+    date_end: present
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Rapid Synthesis of Ternary Chalcogenides_. Supervised by [Prof Kedar Hippalgaonkar](https://scholar.google.com/citations?hl=en&user=xaUJEWAAAAAJ). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+    
+  - area: M.Eng. Materials Science and NanoEngineering
+    institution: Rice University, Houston, TX
+    date_start: 2020-08
+    date_end: 2021-12
+    summary: |Academic Excellence Award
+      GPA: 3.94/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  
+  - area: B.Eng. Materials Science and Engineering
+    institution: Nanjing University of Science and Technology, PRC
+    date_start: 2014-09
+    date_end: 2018-06
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.53/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -150,7 +152,7 @@ languages:
     percent: 100
   - name: Chinese
     percent: 75
-  - name: Portuguese
+  - name: Spanish
     percent: 25
 
 # Awards.
